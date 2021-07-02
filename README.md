@@ -27,6 +27,6 @@ Day ==> Today or Tomorrow
 EXAMPLE : West Bengal_Kolkata_18_2_Paid_Today
 ```
 ## Join Telegram Group
-```
-Click on [JOIN](https://t.me/joinchat/j6abtK6CR15jYTJl) to join **COVID VACCINE SLOTS** Telegram Group.
-```
+
+Click on **[JOIN](https://t.me/joinchat/j6abtK6CR15jYTJl)** to join **COVID VACCINE SLOTS** Telegram Group.
+
